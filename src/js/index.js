@@ -1,4 +1,4 @@
-import './sass/index.scss';
+import '../sass/index.scss';
 import { fetchImages } from './fetch-images';
 import { renderGallery } from './render-gallery';
 import { onScroll, onToTopBtn } from './scroll';
